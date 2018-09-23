@@ -36,10 +36,10 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Sheet 1 7
+Title "Theremin2k18"
+Date "2018-09-23"
+Rev "1A"
 Comp ""
 Comment1 ""
 Comment2 ""

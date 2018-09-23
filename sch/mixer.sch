@@ -36,7 +36,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 2 6
+Sheet 2 7
 Title "Theremin2k18"
 Date "2018-09-23"
 Rev "1A"
@@ -65,6 +65,7 @@ F 0 "Q1" H 5450 4275 50  0000 L CNN
 F 1 "BC547" H 5450 4200 50  0000 L CNN
 F 2 "TO_SOT_Packages_THT:TO-92_Molded_Narrow" H 5450 4125 50  0001 L CIN
 F 3 "" H 5250 4200 50  0001 L CNN
+F 4 "Buscar um BJT NPN com características de ruído melhores" H 5250 4200 60  0001 C CNN "TODO"
 	1    5250 4200
 	1    0    0    -1  
 $EndComp
