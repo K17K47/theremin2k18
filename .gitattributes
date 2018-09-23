@@ -1,0 +1,3 @@
+sch/*.pro filter=kicad_project
+sch/*.sch filter=kicad_sch
+

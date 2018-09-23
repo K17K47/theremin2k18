@@ -1,0 +1,6 @@
+# Ignorar todos os backups e arquivos temporários do KiCAD
+sch/*.bak
+
+sch/*.csv
+sch/*.tsv
+sch/*.xml
