@@ -2,7 +2,9 @@
 
 ### Notas:
 
-   1. O .gitattributtes contém regras para evitar que mudanças de data e de numeração
+   1. Para design dos circuitos, é utilizado KiCAD
+
+   2. O .gitattributtes contém regras para evitar que mudanças de data e de numeração
       dos componentes sejam propagadas para o repositório. Para adicioná-las a sua
       cópia use:
 
