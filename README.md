@@ -20,4 +20,4 @@ git config --global filter.kicad_sch.smudge cat
 ```
 
    4. Referências
-   .* Circuito de referência: http://www.strangeapparatus.com/Theremin.html
+   ..* Circuito de referência: http://www.strangeapparatus.com/Theremin.html
